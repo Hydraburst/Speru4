@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-</module>
+11.	 Создать информационную базу "Государство", каждая запись которой содержит следующие сведения:
+	название;
+	столица;
+	континент;
+	численность населения;
+	занимаемая площадь.
+Предусмотреть:
+а) Удаление из базы всех стран, у которых численность меньше заданной;
+б) Поиск по названию столицы;
+в) Поиск по занимаемой площади свыше заданной;
+г) Выдачу сведений о государствах заданного континента с выбором способа сортировки (по названию, по площади, по населению)
